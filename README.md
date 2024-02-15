@@ -21,8 +21,8 @@ Abra o arquivo `index.html` em seu navegador preferido.
 
 ## Screenshots do Jogo
 
-![Imagem1](screenshots/jogo-do-numero-secreto-tela-1)
-![Imagem2](screenshots/jogo-do-numero-secreto-tela-2)
+![Imagem1](screenshots/jogo-do-numero-secreto-tela-1.png)
+![Imagem2](screenshots/jogo-do-numero-secreto-tela-2.png)
 
 ## Tecnologias Utilizadas
 
